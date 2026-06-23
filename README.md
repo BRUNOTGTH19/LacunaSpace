@@ -1,3 +1,7 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # LacunaSpace — Clock Synchronization System
 
 Solução para o desafio técnico de admissão da **Lacuna Software**, implementada em **C# .NET 8**.
